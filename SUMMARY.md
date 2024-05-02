@@ -10,5 +10,6 @@
 
 ## ❓ FAQ
 
-* [👋 Configurar las bienvenidas/despedidas](faq/configurar-las-bienvenidas-despedidas.md)
+* [👋 Bienvenidas/despedidas](faq/bienvenidas-despedidas/README.md)
+  * [Configurar las bienvenidas](faq/bienvenidas-despedidas/configurar-las-bienvenidas.md)
 * [Filing Expenses](faq/filing-expenses.md)
