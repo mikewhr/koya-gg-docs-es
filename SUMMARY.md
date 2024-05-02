@@ -8,7 +8,7 @@
   * [Invitación de Koya](https://koya.gg/invite)
 * [🤖 Utilizando a Koya](primeros-pasos/utilizando-a-koya.md)
 
-## The Formal Stuff
+## ❓ FAQ
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [👋 Configurar las bienvenidas/despedidas](faq/configurar-las-bienvenidas-despedidas.md)
+* [Filing Expenses](faq/filing-expenses.md)
